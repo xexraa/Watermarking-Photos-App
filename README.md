@@ -34,20 +34,20 @@ After launching the program, all options are locked. We need to load the image f
 
 After loading the image, we have many options on the right side:
 
-Default Save: saves with a standard name.
-Save As: allows us to choose the name and location of the saved file.
-Try it out: shows us how our current settings will look on the image.
-Clear photo: restores the original state of the image.
-Enter your signature: the place where we input our signature.
-Quit: closes the program.
+- Default Save: saves with a standard name.
+- Save As: allows us to choose the name and location of the saved file.
+- Try it out: shows us how our current settings will look on the image.
+- Clear photo: restores the original state of the image.
+- Enter your signature: the place where we input our signature.
+- Quit: closes the program.
 
 On the left side, we have:
 
-X-AXIS: horizontal axis.
-Y-AXIS: vertical axis.
-Font Blur: blurs our signature (min 0, max 255).
-Font Size: the size of our signature.
-Choose font color: a menu where we can choose the color of our signature.
+- X-AXIS: horizontal axis.
+- Y-AXIS: vertical axis.
+- Font Blur: blurs our signature (min 0, max 255).
+- Font Size: the size of our signature.
+- Choose font color: a menu where we can choose the color of our signature.
 
 ![podpis](https://user-images.githubusercontent.com/121942715/231087395-0e7ab6c9-6856-46d4-9ccf-b6b8e7046de1.png)
 
@@ -65,15 +65,15 @@ After clicking Choose font color, the entire color selection menu will open, and
 
 In the config.ini file, we have the ability to set several default settings:
 
-FONT: the default font of the program.
-IMAGE_FONT: the font that the signature will use. It is important to use fonts that are currently installed on our system.
-IMAGE_BLUR_FONT: the blur of the signature.
-IMAGE_FONT_COLOR: the color of the signature.
-IMAGE_FONT_SIZE: the size of the signature.
-POSITION_X: the position of the signature on the X-axis.
-POSITION_Y: the position of the signature on the Y-axis.
-DEFAULT_FILE_NAME: the default file name. It is important not to change the folder in which the file is to be saved ("photos/"), as this may cause problems with saving.
-BG_COLOR: the background color of our program. We can set it to our liking.
+- FONT: the default font of the program.
+- IMAGE_FONT: the font that the signature will use. It is important to use fonts that are currently installed on our system.
+- IMAGE_BLUR_FONT: the blur of the signature.
+- IMAGE_FONT_COLOR: the color of the signature.
+- IMAGE_FONT_SIZE: the size of the signature.
+- POSITION_X: the position of the signature on the X-axis.
+- POSITION_Y: the position of the signature on the Y-axis.
+- DEFAULT_FILE_NAME: the default file name. It is important not to change the folder in which the file is to be saved ("photos/"), as this may cause problems with saving.
+- BG_COLOR: the background color of our program. We can set it to our liking.
 
 ## In addition
 
